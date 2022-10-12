@@ -1,0 +1,13 @@
+{
+  "microPages": {
+    "/route/load": {
+      "microFrontends": [
+        {
+          "container": "#my-mf",
+          "entryPoint": "//localhost:3001",
+          "id": "microfrontend-test-1"
+        }
+      ]
+    }
+  }
+}
