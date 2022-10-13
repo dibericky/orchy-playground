@@ -1,6 +1,6 @@
 {
   "microPages": {
-    "/route/load": {
+    "/": {
       "microFrontends": [
         {
           "container": "#my-mf",
